@@ -28,9 +28,7 @@ Sitemap: ${host}/sitemap.xml
 `)
   } else {
     res.write(`User-agent: *
-Disallow: /
-
-Sitemap: ${host}/sitemap.xml
+Allow: /
 `)
   }
 

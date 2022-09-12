@@ -8,6 +8,10 @@ export default class MyDocument extends Document {
       <IconContext.Provider value={{ style: { verticalAlign: 'middle' } }}>
         <Html lang='en'>
           <Head>
+            <meta name="google-site-verification" content="TOug8YSG7Y7yLuVJGjivJirXucUNILPfYhGuHss1wfg" />
+            <meta name="naver-site-verification" content="aed39e7a7d615952d094d75ee1b3215f09c678ea" />
+            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-9745786602195658"
+              crossOrigin="anonymous"/>
             <link rel='shortcut icon' href='/favicon.ico' />
             <link
               rel='icon'
