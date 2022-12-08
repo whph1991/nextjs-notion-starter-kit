@@ -2,19 +2,19 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '8d9a340e03f947c7a9579f0eea3a2433',
+  rootNotionPageId: 'a7f1a4c1afc4477db58bb7200154455e',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "HOZERO's Engineering Blog",
-  domain: 'hozero.synology.me',
+  name: "Zerobot's Engineering Blog",
+  domain: 'zerobot.synology.me',
   author: 'hylee',
 
   // open graph metadata (optional)
-  description: "HOZERO's Engineering Blog",
+  description: "Zerobot's Engineering Blog",
 
   // social usernames (optional)
   // twitter: 'transitive_bs',
